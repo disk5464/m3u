@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:24,NHL Network Live
+#EXTVLCOPT:network-caching=1000
+https://play.calensj.art/vp/nhlnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMyAxMDo1MDowNCBQTSZoYXNoX3ZhbHVlPWtuc0ZHWmhLZktyRVVla05qMjlaUmc9PSZ2YWxpZG1pbnV0ZXM9NzA=
