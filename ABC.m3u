@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:24,ABC
-#EXTVLCOPT:network-caching=1000
-https://play.calensj.art/vp/ABC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMyAzOjMyOjA0IFBNJmhhc2hfdmFsdWU9VHhjQnBYbjB0UzdNVzFvdmdZeUdOUT09JnZhbGlkbWludXRlcz03MA==
