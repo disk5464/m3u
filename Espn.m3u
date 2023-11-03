@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:24,ESPN1
-#EXTVLCOPT:network-caching=1000
-https://play.calensj.art/vp/espn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxOjM5OjIxIEFNJmhhc2hfdmFsdWU9TThYR1NrN011UG1sYW1ZbHpSdm5yZz09JnZhbGlkbWludXRlcz03MA==
